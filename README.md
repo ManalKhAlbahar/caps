@@ -12,4 +12,4 @@ caps
 
 ## UML
 
-![caps](caps.
+![caps](caps.jpg)
