@@ -9,3 +9,7 @@ caps
 - use node index.js to start the event .
 - [PR](https://github.com/ManalKhAlbahar/caps/pull/1).
 - [Github actions](https://github.com/ManalKhAlbahar/caps/actions).
+
+## UML
+
+![caps](caps.jpg)
